@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: MCQGenerator
+Version: 1.0.1
+Summary: Generates multiple-choice questions for educational purposes
+Home-page: https://github.com/Prince3855
+Author: Prince Lakhani
+Author-email: princeal3855@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
